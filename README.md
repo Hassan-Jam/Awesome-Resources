@@ -16,7 +16,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Sourcing Games](http://sourcing.games/)
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
 - [Giphy](https://giphy.com/)
-- [Character Counter Tool ](https://countmycharacters.com/)) 
+- [Character Counter Tool ](https://countmycharacters.com/)
 
       
 ## 📓 Blogs
