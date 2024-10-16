@@ -20,9 +20,8 @@ The rest is pretty cool too, but these deserve a special place :)
 
       
 ## 📓 Blogs
-- [SourceCon](https://www.sourcecon.com/)
-- [RecruitingDaily](https://recruitingdaily.com/)
-- [SocialTalent Blog](https://www.socialtalent.com/blog)
+- [Backlinko](https://backlinko.com/)
+- [Search Engine Journal](https://www.searchenginejournal.com//)
 - [AmazingHiring Blog](https://amazinghiring.com/blog/)
 - [Beamery Blog](https://blog.beamery.com/)
 - [Tris Revill](https://trisrevill.com/)
