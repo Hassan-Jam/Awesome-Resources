@@ -16,12 +16,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Sourcing Games](http://sourcing.games/)
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
 - [Giphy](https://giphy.com/)
-- [MixMax](http://ssqt.co/mQgncqF) 
+- [Character Counter Tool ](https://countmycharacters.com/)) 
 
-- This simple text editor in my browser
-  - *tip: create a bookmark with this (only this line of code) and pin it on the first tab when you are sourcing*
-
-      ```data:text/html,<html><textarea rows="40" style="width: 100%;height: 100wh;"></textarea></html>```
       
 ## 📓 Blogs
 - [SourceCon](https://www.sourcecon.com/)
