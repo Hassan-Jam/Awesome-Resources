@@ -3,7 +3,8 @@ Hi there, I'm Hassan Mehmood 👋
 
 I’m a Digital Marketer and Freelance Expert specializing in SEO and Paid Marketing. You can find me offering my services on Upwork. 🚀
 
-Previously, I worked at Rocket Internet (Jeeny) in Saudi Arabia as an Operations Supervisor. During my time there, I:
+Previously, I worked at Rocket Internet (Jeeny) in Saudi Arabia as an Operations Supervisor. During my time there, 
+I:
 
     Helped the team with Data Analysis.
     Managed Driver Relationship Management (DRM) campaigns.
@@ -13,6 +14,12 @@ I’m passionate about digital marketing and love leveraging data to make smart,
 My Favorites ❤️
 
 Here are some of my favorite tools and resources that I use regularly for marketing, analysis, and productivity:
+
+<B>Keyword Search</B>
+Answer The Public
+Keyword finder
+Keyword shitter
+
 
 SEO Tools
 
