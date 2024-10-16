@@ -13,7 +13,7 @@ I:
 I’m passionate about digital marketing and love leveraging data to make smart, effective marketing decisions. I’m always eager to learn and share new insights with my community.
 ## ❤️ My favourites
 The rest is pretty cool too, but these deserve a special place :)
-- [Sourcing Games](http://sourcing.games/)
+- [CSS Minify](https://www.cleancss.com/css-minify/)
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
 - [Giphy](https://giphy.com/)
 - [Character Counter Tool ](https://countmycharacters.com/)
