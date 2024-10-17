@@ -175,18 +175,18 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Make My Persona](https://www.hubspot.com/make-my-persona) - A tool by HubSpot to make your persona. 
 
 
-#### 📫 Email
-- [Lemlist](https://lemlist.com/) - Conversational Email Outreach Platform. 
-- [MixMax - all in one](https://mixmax.com/) - ❤️ Enhance your emails. 
-- [Boomerang for Gmail](https://www.boomeranggmail.com/) - Scheduled sending and email reminders. 
-- [mailinator, free temp emailboxes](https://www.mailinator.com/) - ❤️ note: I love this tool for one time signups. 
-- [Snov.io](https://snov.io/) - 💰Find emails, verify them and run your email campaign. 
-- [TestSubject](https://zurb.com/playground/testsubject) - Test how your email subject lines appear on mobile devices.
-- [Trinsly](https://trinsly.com/) - 💰 Personalized Email Automation for recruiters. 
-- [Temp-Mail](https://temp-mail.org/en/) - Free throw-away email. 
-- [Gmelius](https://gmelius.com/) - Email Automation. 
-- [Resource](https://www.resource.io/) - 💰 All-in-one Outreach & CRM platform for recruitment teams. 
-- [Mailper](https://mailper.com/) - Free disposable inboxes. 
+#### Amazon
+- [Amazon Seller Central](https://sellercentral.amazon.com/) - The official platform for managing your Amazon seller account.
+- [Jungle Scout](https://www.junglescout.com/) - Product research tool to help you find profitable items to sell on Amazon.
+- [Helium 10](https://www.helium10.com/) - All-in-one software suite for Amazon sellers, offering tools for keyword research and listing optimization.
+- [AMZScout](https://amzscout.net/) - Amazon product research tool that provides insights into sales estimates and market trends.
+- [WholesaleSeeker](https://wholesaleseeker.com/) - A resource to find distributors and suppliers in the USA.
+- [SellerApp](https://sellerapp.com/) - A comprehensive tool for product research, keyword tracking, and optimizing Amazon listings.
+- [Keepa](https://keepa.com/) - Amazon price tracker that provides historical price data for products.
+- [FeedbackWhiz](https://www.feedbackwhiz.com/) - Tool for managing reviews, emails, and product listings to improve seller performance.
+- [Viral Launch](https://viral-launch.com/) - Launch and marketing tools for Amazon sellers, including product research and keyword tracking.
+- [Shopify](https://www.shopify.com/) - E-commerce platform to build your online store and integrate with Amazon for multi-channel selling.
+
 
 
 #### 📑 Grammar, Spelling & Words
