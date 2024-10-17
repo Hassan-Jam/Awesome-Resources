@@ -175,7 +175,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Make My Persona](https://www.hubspot.com/make-my-persona) - A tool by HubSpot to make your persona. 
 
 
-#### 🚚 Amazon
+#### 🚚 Selling on Amazon
 - [Amazon Seller Central](https://sellercentral.amazon.com/) - The official platform for managing your Amazon seller account.
 - [Jungle Scout](https://www.junglescout.com/) - Product research tool to help you find profitable items to sell on Amazon.
 - [Helium 10](https://www.helium10.com/) - All-in-one software suite for Amazon sellers, offering tools for keyword research and listing optimization.
